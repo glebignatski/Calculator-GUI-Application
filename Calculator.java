@@ -1,16 +1,18 @@
+import java.awt.event.*;
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
 
 public class Calculator implements ActionListener {
-
-	boolean decimal = false;
-	boolean eq = false;
+        boolean eq = false;
 	boolean inter_mediate_lock = false;
+	boolean decimal = false;
+	
 	JFrame frame;
 	JTextField textfield;
-	JButton[] numberButtons = new JButton[10];
+	
 	JButton[] functionButtons = new JButton[9];
+	JButton[] numberButtons = new JButton[10];
+	
 	JButton addButton, subButton, mulButton, divButton;
 	JButton decButton, equButton, delButton, clrButton, negButton;
 	JPanel panel;
