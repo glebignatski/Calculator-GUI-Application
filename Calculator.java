@@ -1,4 +1,4 @@
-// Based on the Java Calculator Application from the "Bro Code" channel at @ https://www.youtube.com/watch?v=dfhmTyRTCSQ
+// Modified and Improved according to the Java Calculator Application from the "Bro Code" channel at @ https://www.youtube.com/watch?v=dfhmTyRTCSQ
 
 import java.awt.event.*;
 import javax.swing.*;
