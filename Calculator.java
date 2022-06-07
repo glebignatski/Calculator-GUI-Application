@@ -1,4 +1,5 @@
-// I modified and enhanced the Java Calculator Application from the "Bro Code" Youtube channel at @ https://www.youtube.com/watch?v=dfhmTyRTCSQ
+// Advanced Java Calculator Application
+// Helpful source: "Bro Code" Youtube channel with tutorial @ https://www.youtube.com/watch?v=dfhmTyRTCSQ
 
 import java.awt.event.*;
 import javax.swing.*;
